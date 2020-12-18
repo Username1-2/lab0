@@ -1,7 +1,7 @@
-#ifndef LAB1_HEADER_H
-#define LAB1_HEADER_H
+#ifndef LAB0_HEADER_H
+#define LAB0_HEADER_H
 
-#endif //LAB1_HEADER_H
+#endif //LAB0_HEADER_H
 
 #pragma once
 #include <iostream>
